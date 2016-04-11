@@ -87,5 +87,5 @@
 * [unix](unix/README.md)
    * [Repeat Yourself](unix/repeat_yourself.md)
    * [All The Environment Variables](unix/all_the_environment_variables.md)
-   * Cat A File With Line Numbers
+   * [Cat A File With Line Numbers](cat_a_file_with_line_numbers.md)
 
