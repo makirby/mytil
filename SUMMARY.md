@@ -83,4 +83,5 @@
    * [Reclaiming The Entire Window](tmux/reclaiming_the_entire_window.md)
    * [Rename The Current Session](tmux/rename_the_current_session.md)
    * [Swap Split Panes](tmux/swap_split_panes.md)
+   * tmux in your tmux
 
