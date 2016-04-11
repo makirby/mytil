@@ -81,5 +81,5 @@
    * [Paging Up And Down](tmux/paging_up_and_down.md)
    * [Pane Killer](tmux/pane_killer.md)
    * [Reclaiming The Entire Window](tmux/reclaiming_the_entire_window.md)
-   * Rename The Current Session
+   * [Rename The Current Session](tmux/rename_the_current_session.md)
 
