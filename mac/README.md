@@ -2,4 +2,4 @@
 
 ##Articles
 
-* [Default Screenshot Location](mac/default_screenshot_location.md)
+* [Default Screenshot Location](default_screenshot_location.md)
