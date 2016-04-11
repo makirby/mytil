@@ -106,4 +106,5 @@
    * [List All Users](unix/list_all_users.md)
    * [Only Show The Matches](unix/only_show_the_matches.md)
    * [Saying Yes](unix/saying_yes.md)
+   * Search History
 
