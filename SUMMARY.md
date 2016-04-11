@@ -56,5 +56,5 @@
    * [Create An Array Containing 1 To N](javascript/create_an_array_containing_1_to_n.md)
    * [Enable ES7 Transforms With react-rails](javascript/enable_es7_transforms_with_react-rails.md)
    * [Random Cannot Be Seeded](javascript/random_cannot_be_seeded.md)
-   * Splat Arguments To A Function
+   * [Splat Arguments To A Function](javascript/splat_arguments_to_a_function.md)
 
