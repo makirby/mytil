@@ -24,7 +24,7 @@
    * [List Most Git Commands](git/list_most_git_commands.md)
    * [List Untracked Files](git/list_untracked_files.md)
    * [Move The Latest Commit To A New Branch](git/move_the_latest_commit_to_a_new_branch.md)
-   * Renaming A Branch
+   * [Renaming A Branch](git/renaming_a_branch.md)
    * [Reference A Commit Via Commit Message Pattern Matching](git/reference_a_commit_via_commit_message_pattern_matc.md)
 * [Devops](devops/README.md)
    * [Aliasing an Ansible Host](devops/aliasing_an_ansible_host.md)
