@@ -30,6 +30,7 @@
    * [Single Key Presses in Interactive Mode](git/single_key_presses_in_interactive_mode.md)
    * [Staging Changes Within Vim](git/staging_changes_within_vim.md)
    * [Staging Stashes Interactively](git/staging_stashes_interactively.md)
+   * Stashing Only Unstaged Changes
 * [Devops](devops/README.md)
    * [Aliasing an Ansible Host](devops/aliasing_an_ansible_host.md)
    * [Check The Status Of All Services](devops/check_the_status_of_all_services.md)
