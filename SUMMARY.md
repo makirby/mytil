@@ -80,5 +80,5 @@
    * [Organizing Windows](tmux/organizing_windows.md)
    * [Paging Up And Down](tmux/paging_up_and_down.md)
    * [Pane Killer](tmux/pane_killer.md)
-   * Reclaiming The Entire Window
+   * [Reclaiming The Entire Window](tmux/reclaiming_the_entire_window.md)
 
