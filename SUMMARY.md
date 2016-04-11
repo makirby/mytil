@@ -108,4 +108,5 @@
    * [Saying Yes](unix/saying_yes.md)
    * [Search History](search_history.md)
    * [Search Man Page Descriptions](unix/search_man_page_descriptions.md)
+   * Securely Remove Files
 
