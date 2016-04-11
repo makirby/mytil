@@ -76,4 +76,5 @@
    * [Jumping Between Sessions](tmux/jumping_between_sessions.md)
    * [List All Key Bindings](tmux/list_all_key_bindings.md)
    * [List Sessions](tmux/list_sessions.md)
+   * Open New Window With A Specific Directory
 
