@@ -59,5 +59,5 @@
    * [Splat Arguments To A Function](javascript/splat_arguments_to_a_function.md)
    * [Throttling A Function Call](javascript/throttling_a_function_call.md)
    * [Transforming ES6 and JSX With Babel 6](javascript/transforming_es6_and_jsx_with_babel_6.md)
-   * Truthiness of Integer Arrays
+   * [Truthiness of Integer Arrays](javascript/truthiness_of_integer_arrays.md)
 
