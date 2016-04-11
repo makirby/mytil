@@ -65,5 +65,5 @@
    * [Configure Your Server Timezone](linux/configure_your_server_timezone.md)
    * [Upgrading Ubuntu](linux/upgrading_ubuntu.md)
 * [mac](mac/README.md)
-   * Default Screenshot Location
+   * [Default Screenshot Location](mac/default_screenshot_location.md)
 
