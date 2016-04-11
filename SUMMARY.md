@@ -99,4 +99,5 @@
    * [Global Substitution On The Previous Command](unix/global_substitution_on_the_previous_command.md)
    * [Grep For Files Without A Match](unix/grep_for_files_without_a_match.md)
    * [Grep For Multiple Patterns](unix/grep_for_multiple_patterns.md)
+   * Hexdump A Compiled File
 
