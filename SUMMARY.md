@@ -68,5 +68,5 @@
    * [Default Screenshot Location](mac/default_screenshot_location.md)
 * [postgres](postgres/README.md)
    * [A Better Null Display Character](postgres/a_better_null_display_character.md)
-* tmux
+* [tmux](tmux)
 
