@@ -41,5 +41,5 @@
    * [Aliasing an Ansible Host](devops/aliasing_an_ansible_host.md)
    * [Check The Status Of All Services](devops/check_the_status_of_all_services.md)
    * [Check The Syntax Of nginx Files](devops/check_the_syntax_of_nginx_files.md)
-   * Determine The IP Address Of A Domain
+   * [Determine The IP Address Of A Domain](devops/determine_the_ip_address_of_a_domain.md)
 
