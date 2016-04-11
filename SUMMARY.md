@@ -94,4 +94,5 @@
    * [Copying File Contents To System Paste Buffer](unix/copying_file_contents_to_system_paste_buffer.md)
    * [Do Not Overwrite Existing Files](unix/do_not_overwrite_existing_files.md)
    * [Create A File Descriptor with Process Substitution](create_a_file_descriptor_with_process_substitution.md)
+   * File Type Info With File
 
