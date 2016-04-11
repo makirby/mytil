@@ -27,6 +27,7 @@
    * [Renaming A Branch](git/renaming_a_branch.md)
    * [Reference A Commit Via Commit Message Pattern Matching](git/reference_a_commit_via_commit_message_pattern_matc.md)
    * [Resetting A Reset](git/resetting_a_reset.md)
+   * Single Key Presses in Interactive Mode
 * [Devops](devops/README.md)
    * [Aliasing an Ansible Host](devops/aliasing_an_ansible_host.md)
    * [Check The Status Of All Services](devops/check_the_status_of_all_services.md)
