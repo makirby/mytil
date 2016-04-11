@@ -32,7 +32,7 @@
    * [Staging Stashes Interactively](git/staging_stashes_interactively.md)
    * [Stashing Only Unstaged Changes](git/stashing_only_unstaged_changes.md)
    * [Stashing Untracked Files](git/stashing_untracked_files.md)
-   * Untrack A Directory Of Files Without Deleting
+   * [Untrack A Directory Of Files Without Deleting](git/untrack_a_directory_of_files_without_deleting.md)
 * [Devops](devops/README.md)
    * [Aliasing an Ansible Host](devops/aliasing_an_ansible_host.md)
    * [Check The Status Of All Services](devops/check_the_status_of_all_services.md)
