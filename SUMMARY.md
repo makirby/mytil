@@ -78,5 +78,5 @@
    * [List Sessions](tmux/list_sessions.md)
    * [Open New Window With A Specific Directory](tmux/open_new_window_with_a_specific_directory.md)
    * [Organizing Windows](tmux/organizing_windows.md)
-   * Paging Up And Down
+   * [Paging Up And Down](tmux/paging_up_and_down.md)
 
