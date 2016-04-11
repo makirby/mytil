@@ -73,5 +73,5 @@
    * [Create A Named tmux Session](tmux/create_a_named_tmux_session.md)
    * [Cycle Through Layouts](tmux/cycle_through_layouts.md)
    * [Enabling Vi Mode](tmux/enabling_vi_mode.md)
-   * Jumping Between Sessions
+   * [Jumping Between Sessions](tmux/jumping_between_sessions.md)
 
