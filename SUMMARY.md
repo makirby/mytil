@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-   * git
+   * [git](git)
        * Accessing a Lost Commit
 * [Devops](devops.md)
    * [Aliasing an Ansible Host](aliasing_an_ansible_host.md)
