@@ -69,4 +69,5 @@
 * [postgres](postgres/README.md)
    * [A Better Null Display Character](postgres/a_better_null_display_character.md)
 * [tmux](tmux/README.md)
+   * Adjusting Window Pane Size
 
