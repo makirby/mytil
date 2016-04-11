@@ -86,5 +86,5 @@
    * [tmux in your tmux](tmux/tmux_in_your_tmux.md)
 * [unix](unix/README.md)
    * [Repeat Yourself](unix/repeat_yourself.md)
-   * All The Environment Variables
+   * [All The Environment Variables](unix/all_the_environment_variables.md)
 
