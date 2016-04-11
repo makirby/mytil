@@ -85,5 +85,4 @@
    * [Swap Split Panes](tmux/swap_split_panes.md)
    * [tmux in your tmux](tmux/tmux_in_your_tmux.md)
 * [unix](unix/README.md)
-   * [Cat A File With Line Numbers](unix/cat_a_file_with_line_numbers.md)
 
