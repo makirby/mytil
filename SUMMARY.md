@@ -77,5 +77,5 @@
    * [List All Key Bindings](tmux/list_all_key_bindings.md)
    * [List Sessions](tmux/list_sessions.md)
    * [Open New Window With A Specific Directory](tmux/open_new_window_with_a_specific_directory.md)
-   * Organizing Windows
+   * [Organizing Windows](tmux/organizing_windows.md)
 
