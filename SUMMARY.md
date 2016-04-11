@@ -72,5 +72,5 @@
    * [Adjusting Window Pane Size](tmux/adjusting_window_pane_size.md)
    * [Create A Named tmux Session](tmux/create_a_named_tmux_session.md)
    * [Cycle Through Layouts](tmux/cycle_through_layouts.md)
-   * Enabling Vi Mode
+   * [Enabling Vi Mode](tmux/enabling_vi_mode.md)
 
