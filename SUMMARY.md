@@ -74,5 +74,5 @@
    * [Cycle Through Layouts](tmux/cycle_through_layouts.md)
    * [Enabling Vi Mode](tmux/enabling_vi_mode.md)
    * [Jumping Between Sessions](tmux/jumping_between_sessions.md)
-   * List All Key Bindings
+   * [List All Key Bindings](tmux/list_all_key_bindings.md)
 
