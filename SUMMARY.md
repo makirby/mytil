@@ -106,7 +106,7 @@
    * [List All Users](unix/list_all_users.md)
    * [Only Show The Matches](unix/only_show_the_matches.md)
    * [Saying Yes](unix/saying_yes.md)
-   * [Search History](search_history.md)
+   * [Search History](unix/search_history.md)
    * [Search Man Page Descriptions](unix/search_man_page_descriptions.md)
    * [Securely Remove Files](securely_remove_files.md)
    * [SSH With A Specific Key](unix/ssh_with_a_specific_key.md)
