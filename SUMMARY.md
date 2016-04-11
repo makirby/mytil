@@ -109,5 +109,5 @@
    * [Search History](search_history.md)
    * [Search Man Page Descriptions](unix/search_man_page_descriptions.md)
    * [Securely Remove Files](securely_remove_files.md)
-   * SSH With A Specific Key
+   * [SSH With A Specific Key](unix/ssh_with_a_specific_key.md)
 
