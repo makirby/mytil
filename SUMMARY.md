@@ -23,7 +23,7 @@
    * [List Filenames Without The Diffs](git/list_filenames_without_the_diffs.md)
    * [List Most Git Commands](git/list_most_git_commands.md)
    * [List Untracked Files](git/list_untracked_files.md)
-   * Move The Latest Commit To A New Branch
+   * [Move The Latest Commit To A New Branch](git/move_the_latest_commit_to_a_new_branch.md)
 * [Devops](devops/README.md)
    * [Aliasing an Ansible Host](devops/aliasing_an_ansible_host.md)
    * [Check The Status Of All Services](devops/check_the_status_of_all_services.md)
