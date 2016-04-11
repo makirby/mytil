@@ -9,6 +9,7 @@
    * [Checkout Previous Branch](git/checkout_previous_branch.md)
    * [Clean Out All Local Branches](git/clean_out_all_local_branches.md)
    * [Clean Up Old Remote Tracking References](git/clean_up_old_remote_tracking_references.md)
+   * Delete All Untracked Files
 * [Devops](devops.md)
    * [Aliasing an Ansible Host](aliasing_an_ansible_host.md)
    * [Check The Status Of All Services](devops/check_the_status_of_all_services.md)
