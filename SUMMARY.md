@@ -18,6 +18,7 @@
    * [Grep Over Commit Messages](git/grep_over_commit_messages.md)
    * [Ignore Changes To A Tracked File](git/ignore_changes_to_a_tracked_file.md)
    * [Intent To Add](git/intent_to_add.md)
+   * Interactively Unstage Changes
 * [Devops](devops.md)
    * [Aliasing an Ansible Host](aliasing_an_ansible_host.md)
    * [Check The Status Of All Services](devops/check_the_status_of_all_services.md)
