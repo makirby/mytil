@@ -1,3 +1,18 @@
-# My Awesome Book
+# TIL
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+## Stuff to remember
+
+### Categories
+
+* [C#](#csharp)
+* [Devops](#devops)
+* [Git](#git)
+* [Go](#go)
+* [JavaScript](#javascript)
+* [Linux](#linux)
+* [Mac](#mac)
+* [PostgreSQL](#postgresql)
+* [SQL](#sql)
+* [tmux](#tmux)
+* [Unix](#unix)
+* [Vim](#vim)
