@@ -85,5 +85,5 @@
    * [Swap Split Panes](tmux/swap_split_panes.md)
    * [tmux in your tmux](tmux/tmux_in_your_tmux.md)
 * [unix](unix/README.md)
-   * All The Environment Variables
+   * [All The Environment Variables](unix/all_the_environment_variables.md)
 
