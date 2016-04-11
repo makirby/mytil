@@ -66,5 +66,5 @@
    * [Upgrading Ubuntu](linux/upgrading_ubuntu.md)
 * [mac](mac/README.md)
    * [Default Screenshot Location](mac/default_screenshot_location.md)
-* postgres
+* [postgres](postgres/README.md)
 
