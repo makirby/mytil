@@ -61,5 +61,5 @@
    * [Transforming ES6 and JSX With Babel 6](javascript/transforming_es6_and_jsx_with_babel_6.md)
    * [Truthiness of Integer Arrays](javascript/truthiness_of_integer_arrays.md)
 * [linux](linux/README.md)
-   * Check Ubuntu Version
+   * [Check Ubuntu Version](linux/check_ubuntu_version.md)
 
