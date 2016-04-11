@@ -48,5 +48,5 @@
    * [Running Out Of inode Space](devops/running_out_of_inode_space.md)
    * [Wipe A Heroku Postgres Database](devops/wipe_a_heroku_postgres_database.md)
 * [go](go/README.md)
-   * Not So Random
+   * [Not So Random](go/not_so_random.md)
 
