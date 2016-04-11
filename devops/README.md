@@ -1,6 +1,7 @@
 # Devops
 
 ##Articles
+
 * [Aliasing an Ansible Host](aliasing_an_ansible_host.md)
 * [Check The Status Of All Services](check_the_status_of_all_services.md)
 * [Check The Syntax Of nginx Files](check_the_syntax_of_nginx_files.md)
