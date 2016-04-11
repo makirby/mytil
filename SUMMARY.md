@@ -91,5 +91,5 @@
    * [Change Default Shell For A User](unix/change_default_shell_for_a_user.md)
    * [Check If A Port Is In Use](unix/check_if_a_port_is_in_use.md)
    * [Clear The Screen](unix/clear_the_screen.md)
-   * Copying File Contents To System Paste Buffer
+   * [Copying File Contents To System Paste Buffer](unix/clear_the_screen.md)
 
