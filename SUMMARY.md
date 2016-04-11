@@ -114,5 +114,5 @@
    * [Switch Versions of a Brew Formula](switch_versions_of_a_brew_formula.md)
    * [Watch The Difference](unix/watch_the_difference.md)
    * [Watch This Run Repeatedly](unix/watch_this_run_repeatedly.md)
-   * Where Are The Binaries?
+   * [Where Are The Binaries?](unix/where_are_the_binaries.md)
 
