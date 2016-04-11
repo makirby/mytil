@@ -31,7 +31,7 @@
    * [Staging Changes Within Vim](git/staging_changes_within_vim.md)
    * [Staging Stashes Interactively](git/staging_stashes_interactively.md)
    * [Stashing Only Unstaged Changes](git/stashing_only_unstaged_changes.md)
-   * Stashing Untracked Files
+   * [Stashing Untracked Files](git/stashing_untracked_files.md)
 * [Devops](devops/README.md)
    * [Aliasing an Ansible Host](devops/aliasing_an_ansible_host.md)
    * [Check The Status Of All Services](devops/check_the_status_of_all_services.md)
