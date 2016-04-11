@@ -35,6 +35,7 @@
    * [Untrack A Directory Of Files Without Deleting](git/untrack_a_directory_of_files_without_deleting.md)
    * [Untrack A File Without Deleting It](git/untrack_a_file_without_deleting_it.md)
    * [Verbose Commit Message](git/verbose_commit_message.md)
+   * What Is The Current Branch?
 * [Devops](devops/README.md)
    * [Aliasing an Ansible Host](devops/aliasing_an_ansible_host.md)
    * [Check The Status Of All Services](devops/check_the_status_of_all_services.md)
