@@ -62,4 +62,5 @@
    * [Truthiness of Integer Arrays](javascript/truthiness_of_integer_arrays.md)
 * [linux](linux/README.md)
    * [Check Ubuntu Version](linux/check_ubuntu_version.md)
+   * Configure Your Server Timezone
 
