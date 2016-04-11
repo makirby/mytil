@@ -111,4 +111,5 @@
    * [Securely Remove Files](securely_remove_files.md)
    * [SSH With A Specific Key](unix/ssh_with_a_specific_key.md)
    * [SSH With Port Forwarding](unix/ssh_with_port_forwarding.md)
+   * Switch Versions of a Brew Formula
 
