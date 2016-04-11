@@ -14,7 +14,7 @@
    * [Dry Runs in Git](git/dry_runs_in_git.md)
    * [Excluding Files Locally](git/excluding_files_locally.md)
    * [Find The Initial Commit](git/find_the_initial_commit.md)
-   * Grab A Single File From A Stash
+   * [Grab A Single File From A Stash](git/grab_a_single_file_from_a_stash.md)
 * [Devops](devops.md)
    * [Aliasing an Ansible Host](aliasing_an_ansible_host.md)
    * [Check The Status Of All Services](devops/check_the_status_of_all_services.md)
