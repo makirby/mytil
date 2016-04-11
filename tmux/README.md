@@ -1,6 +1,7 @@
 #tmux
 
 ##Articles
+
 * [Adjusting Window Pane Size](adjusting_window_pane_size.md)
 * [Create A Named tmux Session](create_a_named_tmux_session.md)
 * [Cycle Through Layouts](cycle_through_layouts.md)
