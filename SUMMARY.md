@@ -107,5 +107,5 @@
    * [Only Show The Matches](unix/only_show_the_matches.md)
    * [Saying Yes](unix/saying_yes.md)
    * [Search History](search_history.md)
-   * Search Man Page Descriptions
+   * [Search Man Page Descriptions](unix/search_man_page_descriptions.md)
 
