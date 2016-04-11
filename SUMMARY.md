@@ -96,5 +96,5 @@
    * [Create A File Descriptor with Process Substitution](unix/create_a_file_descriptor_with_process_substitution.md)
    * [File Type Info With File](unix/file_type_info_with_file.md)
    * [Find Newer Files](unix/find_newer_files.md)
-   * Global Substitution On The Previous Command
+   * [Global Substitution On The Previous Command](unix/global_substitution_on_the_previous_command.md)
 
