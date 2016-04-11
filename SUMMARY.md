@@ -52,5 +52,5 @@
    * [Replace The Current Process With An External Command](go/replace_the_current_process_with_an_external_comma.md)
    * [Sleep For A Duration](go/sleep_for_a_duration.md)
 * [javascript](javascript/README.md)
-   * Character Codes from Keyboard Listeners
+   * [Character Codes from Keyboard Listeners](javascript/character_codes_from_keyboard_listeners.md)
 
