@@ -44,4 +44,5 @@
    * [Determine The IP Address Of A Domain](devops/determine_the_ip_address_of_a_domain.md)
    * [Path Of The Packets](devops/path_of_the_packets.md)
    * [Push Non-master Branch To Heroku](devops/push_non-master_branch_to_heroku.md)
+   * Reload The nginx Configuration
 
