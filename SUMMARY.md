@@ -75,5 +75,5 @@
    * [Enabling Vi Mode](tmux/enabling_vi_mode.md)
    * [Jumping Between Sessions](tmux/jumping_between_sessions.md)
    * [List All Key Bindings](tmux/list_all_key_bindings.md)
-   *  List Sessions
+   * [List Sessions](tmux/list_sessions.md)
 
