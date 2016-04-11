@@ -11,7 +11,7 @@
    * [Clean Up Old Remote Tracking References](git/clean_up_old_remote_tracking_references.md)
    * [Delete All Untracked Files](git/delete_all_untracked_files.md)
    * [Determine The Hash Id For A Blob](git/determine_the_hash_id_for_a_blob.md)
-   * Dry Runs in Git
+   * [Dry Runs in Git](git/dry_runs_in_git.md)
 * [Devops](devops.md)
    * [Aliasing an Ansible Host](aliasing_an_ansible_host.md)
    * [Check The Status Of All Services](devops/check_the_status_of_all_services.md)
