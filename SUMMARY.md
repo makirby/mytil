@@ -22,7 +22,7 @@
    * [Last Commit A File Appeared In](git/last_commit_a_file_appeared_in.md)
    * [List Filenames Without The Diffs](git/list_filenames_without_the_diffs.md)
    * [List Most Git Commands](git/list_most_git_commands.md)
-* [Devops](devops.md)
+* [Devops](devops/README.md)
    * [Aliasing an Ansible Host](aliasing_an_ansible_host.md)
    * [Check The Status Of All Services](devops/check_the_status_of_all_services.md)
 
