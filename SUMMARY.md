@@ -7,6 +7,7 @@
    * [Caching Credentials](git/caching_credentials.md)
    * [Checkout Old Version Of A File](git/checkout_old_version_of_a_file.md)
    * [Checkout Previous Branch](git/checkout_previous_branch.md)
+   * Clean Out All Local Branches
 * [Devops](devops.md)
    * [Aliasing an Ansible Host](aliasing_an_ansible_host.md)
    * [Check The Status Of All Services](devops/check_the_status_of_all_services.md)
