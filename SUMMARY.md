@@ -86,5 +86,5 @@
    * [tmux in your tmux](tmux/tmux_in_your_tmux.md)
 * [unix](unix/README.md)
    * [All The Environment Variables](unix/all_the_environment_variables.md)
-   * Cat A File With Line Numbers
+   * [Cat A File With Line Numbers](unix/cat_a_file_with_line_numbers.md)
 
