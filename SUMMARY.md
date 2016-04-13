@@ -119,5 +119,5 @@
 * [csharp](csharp/README.md)
 * [windows](windows/README.md)
 * [docker](docker/README.md)
-   * Set up postgres instance
+   * [Set up postgres instance](docker/set_up_postgres_instance.md)
 
