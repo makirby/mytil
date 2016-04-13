@@ -120,4 +120,5 @@
 * [windows](windows/README.md)
 * [docker](docker/README.md)
    * [Set up postgres instance](docker/set_up_postgres_instance.md)
+   * Attach to a Container
 
