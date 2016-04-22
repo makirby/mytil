@@ -1,7 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-   * [docker](docker)
 * [git](git/README.md)
    * [Accessing a Lost Commit](git/accessing_a_lost_commit.md)
    * [Amend Author Of Previous Commit](git/amend_author_of_previous_commit.md)
