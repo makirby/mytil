@@ -3,7 +3,6 @@
 * [Introduction](README.md)
 * [docker](docker)
    * [Set up postgres instance](set_up_postgres_instance.md)
-* [Set up postgres instance](docker/set_up_postgres_instance.md)
 * [git](git/README.md)
    * [Accessing a Lost Commit](git/accessing_a_lost_commit.md)
    * [Amend Author Of Previous Commit](git/amend_author_of_previous_commit.md)
