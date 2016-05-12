@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [docker](docker)
+   * [Attach to a Container](docker/attach_to_a_container.md)
    * [Set up postgres instance](docker/set_up_postgres_instance.md)
 * [git](git/README.md)
    * [Accessing a Lost Commit](git/accessing_a_lost_commit.md)
@@ -119,5 +120,4 @@
    * [Where Are The Binaries?](unix/where_are_the_binaries.md)
 * [csharp](csharp/README.md)
 * [windows](windows/README.md)
-* [Attach to a Container](docker/attach_to_a_container.md)
 
