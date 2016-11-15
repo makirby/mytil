@@ -19,4 +19,3 @@
 * [unix](unix/README.md)
 * [csharp](csharp/README.md)
 * [windows](windows/README.md)
-* [react]()
